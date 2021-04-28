@@ -1,4 +1,6 @@
-## Projeto criado durante a 5 edição do evento NLW da rocketseat
+<div align="center">
+    <h1> Podcastr - NLW#5 - Trilha ReactJS</h1>
+</div>
 
 - React
 - Next.js
