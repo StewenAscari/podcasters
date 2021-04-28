@@ -17,6 +17,6 @@ Na semana do evento da NLW, já sua 5º edição, foi desenvolvida uma aplicaç�
 
 - Clone o projeto
 - npm install
-- npm run serve ( como estamos com um backend fake, esse comando é para rodar o json Server )
+- npm run server ( como estamos com um backend fake, esse comando é para rodar o json Server )
 - npm run dev
 - acesse : http://localhost:3000
