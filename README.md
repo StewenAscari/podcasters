@@ -3,7 +3,7 @@
 </div>
 
 # Sobre
-Na semana do evento da NLW, já sua 5º edição, foi desenvolvida uma aplicação que tem como intuito reproduzir episodios de um podcastr. Assim como acontece no spotify ou qualquer outra plataforma que contém podcast ou algo semelhante, na aplicação desenvolvida os usuarios tem em suas mãos todas as funcionalidades que um reprodutor de áudio contém. Que são: próximo episódio, pausa, adiantar episódio, retroceder...
+Na semana do evento da NLW, já sua 5º edição, foi desenvolvida uma aplicação que tem como intuito reproduzir episodios de um podcastr. Assim como acontece no spotify ou qualquer outra plataforma que contém podcast ou algo semelhante, na aplicação desenvolvida os usuarios tem em suas mãos todas as funcionalidades que um reprodutor de áudio contém: próximo episódio, pausa, adiantar episódio, retroceder...
 
 # Tecnologias
 
